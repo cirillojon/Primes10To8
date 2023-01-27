@@ -1,5 +1,5 @@
 # Primes10To8
-This program is written in java (openjdk 17.0.4.1 2022-08-12)
+This program is written in java (openjdk 17.0.4.1)
 To run the code use the following commands: 
 javac Primes10To8.java
 java Primes10To8
